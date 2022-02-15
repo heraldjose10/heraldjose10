@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heraldjose10
 - 👀 I’m interested in Python, Flask and react development
 - 🌱 I’m currently learning React and Rest API
-- 💞️ I’m looking to collaborate on REST API development
+- 💞️ Lets collaborate on REST API development
 - 📫 Reach me on heraldjose11@gmail.com
 
 <!---
