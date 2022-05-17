@@ -4,9 +4,9 @@
 - 💞️ Lets collaborate on REST API development
 - 📫 Reach me on heraldjose11@gmail.com
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=heraldjose10&theme=blue-green)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heraldjose10&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=heraldjose10&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heraldjose10&layout=compact&theme=vision-friendly-dark)](https://github.com/heraldjose10/github-readme-stats)
 
 <!---
 heraldjose10/heraldjose10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
